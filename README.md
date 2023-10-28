@@ -1,1 +1,1 @@
-# c-small-games
+# c++-games
